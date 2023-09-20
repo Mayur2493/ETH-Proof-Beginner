@@ -19,6 +19,7 @@ I used different concepts of solidity language to write this smart contract like
 ## Authors
 
 Contributors names and contact info:
+
 Mayur Surve 
 
 [@Mayur2493](https://github.com/Mayur2493)
